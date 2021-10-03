@@ -1,5 +1,5 @@
 #!/bin/bash
-homedir=/home/ubuntu
+homedir=/root/bot
 apppath="QrCodeBot-xyZ"
 echo "Installing the requirements ... "
 
