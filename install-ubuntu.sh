@@ -29,4 +29,4 @@ pip3 install Image
 pip install pillow
 
 
-sudo chown -R ubuntu:ubuntu $homedir/$apppath
+sudo chown -R root:root $homedir/$apppath
